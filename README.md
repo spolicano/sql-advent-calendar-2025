@@ -29,9 +29,5 @@ sql-advent-calendar-2025/
 | 10 | Cookie Factory Oven Efficiency | Easy | AVG, ROUND, GROUP BY |
 | 11 | Winter Market Sweater Search | Medium | LIKE, LOWER(), UPPER() |
 | 12 | North Pole Network Most Active Users | Hard | GROUP BY, DATE(), PARTITION BY, OVER, RANK() |
-| 13 | Naughty or Nice Score Extremes | Easy |  |
-| 14 | Focus Challenge End Dates | Medium |  |
-
 | 13 | Naughty or Nice Score Extremes | Easy | MIN(), MAX(), UNION ALL |
 | 14 | Focus Challenge End Dates | Medium | DATE() |
-| ... |  |  |  |
