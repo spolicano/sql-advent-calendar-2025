@@ -25,7 +25,7 @@ sql-advent-calendar-2025/
 | 6 | Ski Resort Snowfall Rankings | Hard | SUM(), OVER, NTILE() |
 | 7 | Snowflake Types Count | Easy | COUNT, DISTINCT, WHERE |
 | 8 | Storage Room Inventory | Medium | UNION ALL |
-| 9 | Tinsel and Light Combinations | Hard | CROSS JOIN, Concatenation |
+| 9 | Tinsel and Light Combinations | Hard | CROSS JOIN, CONCAT |
 | 10 | Cookie Factory Oven Efficiency | Easy | AVG, ROUND, GROUP BY |
 | 11 | Winter Market Sweater Search | Medium | LIKE, LOWER(), UPPER() |
 | 12 | North Pole Network Most Active Users | Hard | GROUP BY, DATE(), PARTITION BY, OVER, RANK() |
