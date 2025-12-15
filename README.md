@@ -1,6 +1,6 @@
 ## SQL Advent Calendar 2025
 
-This repository contains my solutions to the [**SQL Advent Calendar 2025**](https://www.interviewmaster.ai/advent/home) challenge organized by Interview Master.\
+This repository contains my solutions to the [**SQL Advent Calendar 2025**](https://www.interviewmaster.ai/advent/home) challenge organized by Interview Master.
 
 ### Project Structure
 
