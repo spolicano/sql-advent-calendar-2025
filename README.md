@@ -31,3 +31,4 @@ sql-advent-calendar-2025/
 | 12 | North Pole Network Most Active Users | Hard | GROUP BY, DATE(), PARTITION BY, OVER, RANK() |
 | 13 | Naughty or Nice Score Extremes | Easy | MIN(), MAX() |
 | 14 | Focus Challenge End Dates | Medium | DATE() |
+| 14 | The Grinch's Mischief Tracker | Hard | LAG() |
