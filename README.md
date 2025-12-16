@@ -32,3 +32,4 @@ sql-advent-calendar-2025/
 | 13 | Naughty or Nice Score Extremes | Easy | MIN(), MAX() |
 | 14 | Focus Challenge End Dates | Medium | DATE() |
 | 14 | The Grinch's Mischief Tracker | Hard | LAG() |
+| 15 | Cozy Snow Day Tasks | Easy | WHERE |
